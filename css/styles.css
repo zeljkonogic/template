@@ -7358,6 +7358,7 @@ textarea.form-control-lg {
 
 .mb-0 {
   margin-bottom: 0 !important;
+  text-decoration: underline;
 }
 
 .mb-1 {
